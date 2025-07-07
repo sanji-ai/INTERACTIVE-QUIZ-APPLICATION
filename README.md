@@ -35,3 +35,7 @@ Features :-
  - Sticky header and footer with a clean, modern design
 
 # OUTPUT :-
+
+<img width="1919" height="952" alt="Image" src="https://github.com/user-attachments/assets/459cc5e4-cb4e-4a45-8729-e788944d03a5" />
+
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/7ed04915-2a14-4727-9a8b-4199904d29f1" />
